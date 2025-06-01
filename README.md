@@ -1,6 +1,4 @@
-# SSQR
-Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models
-
+This is the source code for the paper **Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**. If the code is useful for you, please cite the following paper:
 
 ```
 @article{DBLP:journals/corr/abs-2501-18119,
@@ -12,10 +10,8 @@ Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Gr
                   Ling Huang and
                   Jingying Ma and
                   Mengling Feng},
-  title        = {Self-supervised Quantized Representation for Seamlessly Integrating
-                  Knowledge Graphs with Large Language Models},
-  booktitle    = {Proceedings of the 63st Annual Meeting of the Association for Computational
-                  Linguistics (ACL)},
+  title        = {Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models},
+  booktitle    = {Proceedings of the 63st Annual Meeting of the Association for Computational Linguistics (ACL)},
   year         = {2025}
 }
 ```
